@@ -7,7 +7,7 @@
 <a><img src='https://files.catbox.moe/7gung8.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/SHANI-GDS"><img title="Developer" src="https://img.shields.io/badge/Author-SHANII%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/MRSHABAN42"><img title="Developer" src="https://img.shields.io/badge/Author-SHANII%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -23,13 +23,13 @@
 
 
 <p align="center">
-<a href="https://github.com/SHANI-GDS/SHANII-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=SHANI-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/SHANI-GDS/SHANII-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+  <a href="https://github.com/MRSHABAN40/SHABAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
 
 
@@ -41,13 +41,13 @@
 
   
 <a
-href="https://github.com/SHANI-GDS/SHANII-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/SHANI-GDS/SHANII-MD/fork"><img title="SHANII-MD" src="https://img.shields.io/badge/FORK-SHANII MD-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork"><img title="SHABAN-MD" src="https://img.shields.io/badge/FORK-SHANII-MD-h?color=008000&style=for-the-badge&logo=github"></a>
 
  -------------
   
