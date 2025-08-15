@@ -1,8 +1,8 @@
 {
-  "name": "SHANI-MD",
+  "name": "SHANII-MD",
   "description": "Javascript WhatsApp bot made by 𝐒𝐇𝐀𝐍𝐈-𝐌𝐃⁹⁹⁴",
   "logo": "https://files.catbox.moe/7gung8.jpg",
-  "keywords": ["SHANI-MD"],
+  "keywords": ["SHANII-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHANI-MD︎"
+      "value": "SHANII-MD "
     },
     
     "MENU_IMAGE_URL": {
