@@ -1,15 +1,15 @@
 {
-  "name": "SHANI-MD",
+  "name": "SHANII-MD",
   "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By SHANI-MD",
+  "description": "A WhatsApp Bot Created By SHANII-MD",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHANI-MD",
-    "stop": "pm2 stop SHANI-MD",
-    "restart": "pm2 restart SHANI-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SHANII-MD",
+    "stop": "pm2 stop SHANII-MD",
+    "restart": "pm2 restart SHANII-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys":"github:SHANI-GDS/SHANI MD-Baileys",
+    "@whiskeysockets/baileys":"github:SHANI-GDS/SHANII-MD-Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
